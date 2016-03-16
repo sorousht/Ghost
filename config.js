@@ -43,7 +43,7 @@ config = {
         port: '5432'
       },
       debug: false
-    }
+    },
 
     // server: {
     //     host: '127.0.0.1',
